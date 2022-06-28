@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHARlZARD currently i work as a QA 😸
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript, React and Kotlin
+- 🌱 I’m currently learning Kotlin, Selenium, JavaScript and React
 
 
 <!---
